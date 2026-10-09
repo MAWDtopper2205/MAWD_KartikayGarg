@@ -1,2 +1,4 @@
 # MAWD_Devansh
-Mid_term answer files can be seen attached
+## following are included in this repo.:
+* Mid_term answer files
+* Readme.md
